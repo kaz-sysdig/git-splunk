@@ -1,0 +1,7 @@
+namespace:
+  - name: sock-shop
+    ProductOwner: andrew
+  - name: demo-app
+    ProductOwner: andrew
+  - name: video-store-app
+    ProductOwner: kaz
