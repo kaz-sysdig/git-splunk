@@ -1,0 +1,27 @@
+namespace:
+  - name: demo
+    ProductOwner: user1
+  - name: harbor
+    ProductOwner: user2
+  - name: kube-node-lease 
+    ProductOwner: user3
+  - name: kube-public
+    ProductOwner: user4
+  - name: kube-system
+    ProductOwner: user5
+  - name: ly
+    ProductOwner: user6
+  - name: lytest1
+    ProductOwner: user7
+  - name: ns1
+    ProductOwner: user8
+  - name: nstest1
+    ProductOwner: user9
+  - name: registry
+    ProductOwner: user10
+  - name: sysdig
+    ProductOwner: user11
+  - name: sysdig-agent
+    ProductOwner: user12
+  - name: sysdig-agents
+    ProductOwner: user13
